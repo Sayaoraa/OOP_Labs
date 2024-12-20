@@ -1,0 +1,44 @@
+Start testing: Dec 17 19:49 MSK
+----------------------------------------------------------
+1/1 Testing: runTests
+1/1 Test: runTests
+Command: "/home/stimch/study/OOP-MAI-3-SEM/lab_6/build/runTests"
+Directory: /home/stimch/study/OOP-MAI-3-SEM/lab_6/build
+"runTests" start time: Dec 17 19:49 MSK
+Output:
+----------------------------------------------------------
+[==========] Running 6 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 3 tests from NPCFactoryTest
+[ RUN      ] NPCFactoryTest.CreateBandit
+[       OK ] NPCFactoryTest.CreateBandit (0 ms)
+[ RUN      ] NPCFactoryTest.CreateKnight
+[       OK ] NPCFactoryTest.CreateKnight (0 ms)
+[ RUN      ] NPCFactoryTest.CreateElf
+[       OK ] NPCFactoryTest.CreateElf (0 ms)
+[----------] 3 tests from NPCFactoryTest (0 ms total)
+
+[----------] 3 tests from BattleVisitorTest
+[ RUN      ] BattleVisitorTest.VisitBandit
+Bandit Bandit1 is fighting.
+[       OK ] BattleVisitorTest.VisitBandit (0 ms)
+[ RUN      ] BattleVisitorTest.VisitKnight
+Knight Knight1 is fighting.
+[       OK ] BattleVisitorTest.VisitKnight (0 ms)
+[ RUN      ] BattleVisitorTest.VisitElf
+Elf Elf1 is fighting.
+[       OK ] BattleVisitorTest.VisitElf (0 ms)
+[----------] 3 tests from BattleVisitorTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 2 test suites ran. (0 ms total)
+[  PASSED  ] 6 tests.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"runTests" end time: Dec 17 19:49 MSK
+"runTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 17 19:49 MSK
