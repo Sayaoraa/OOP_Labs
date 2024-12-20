@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Lab5.dir/unit.cpp.o CMakeFiles/Lab5.dir/FixedBlockMemoryResource.cpp.o -o Lab5  /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread
